@@ -1,0 +1,3 @@
+# BaPo - Converse com Desconhecidos!
+
+O BaPo (BAte-paPO) é uma plataforma de chat em tempo real que conecta pessoas aleatoriamente ao redor do mundo para conversas em texto. Com pareamento automático e comunicação instantânea via WebSockets, o site permite que dois usuários desconhecidos sejam conectados de forma simples e rápida, criando uma experiência dinâmica e anônima. Desenvolvido com HTML, CSS, JavaScript e Socket.io, o projeto demonstra a aplicação prática de comunicação bidirecional em tempo real e lógica de pareamento entre usuários.
