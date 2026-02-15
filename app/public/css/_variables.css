@@ -41,6 +41,12 @@
   --radius-xl: 1.6rem;
   --radius-full: 9999px;
 
+  /* Breakpoints */
+  --breakpoint-xs: 600px;
+  --breakpoint-sm: 768px;
+  --breakpoint-md: 992px;
+  --breakpoint-lg: 1200px;
+
   /* Colors */
   --background: oklch(1 0 0);
   --foreground: oklch(0.141 0.005 285.823);
